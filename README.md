@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zainr27
-- 👀 I’m interested in Cryptocurrency and App Development
+- 👀 I’m interested in Cybersecurity and App Development
 - 🌱 I’m currently learning how to built React Apps
 - 📫 How to reach me "zur1@rice.edu"
 - 😄 Pronouns: He/Him
